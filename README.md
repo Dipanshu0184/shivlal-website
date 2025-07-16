@@ -100,7 +100,7 @@
     <h2>Contact Us</h2>
     <p>Want to grow your brand online? Let's connect!</p>
     <p>Email: <strong>contact@shivlaldigital.com</strong></p>
-    <p>Phone: <strong>+91-9876543210</strong></p>
+    <p>Phone: <strong>+91-6239670184</strong></p>
     <a href="mailto:contact@shivlaldigital.com" class="btn">Email Us</a>
   </section>
 
